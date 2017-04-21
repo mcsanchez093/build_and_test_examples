@@ -5,7 +5,7 @@ python:
  - "3.4"
  
 script:
- - python hellow.py
+ - python hello.py
  - python mazeExample.py
  - sh test.sh
  
